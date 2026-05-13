@@ -1,16 +1,67 @@
-## Hi there 👋
+# Sridaraneesh Navendran
 
-<!--
-**Sridaraneesh/Sridaraneesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Enterprise AI • Applied ML • Observability • Systems Thinking
 
-Here are some ideas to get you started:
+Computer Science Engineering graduate with an academic minor in AI & Data Science, currently focused on enterprise AI systems, observability workflows, applied machine learning, and technically serious product experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently interested in:
+- Enterprise AI
+- AI observability
+- Applied ML systems
+- Product-oriented engineering
+- Interactive technical interfaces
+- Business-aware software systems
+
+---
+
+## Focus Areas
+
+- AI & Data Science
+- Enterprise Systems
+- Observability & Analytics
+- Computer Vision
+- Applied Machine Learning
+- Dashboarding & Visualization
+- Product Engineering
+- Technical UX
+
+---
+
+## Tech Exposure
+
+**Core**
+- Python
+
+**AI / ML**
+- TensorFlow
+- YOLOv8
+- ResNet
+- BERT
+- OpenCV
+
+**Data & Analytics**
+- Power BI
+- Pandas
+- NumPy
+
+**Enterprise / Systems**
+- SAP
+- Observability workflows
+- IDoc monitoring
+
+---
+
+## Current Direction
+
+Building toward:
+- technically serious systems
+- polished product experiences
+- enterprise AI workflows
+- operational dashboards
+- interactive technical interfaces
+
+Interested in combining:
+- engineering
+- systems thinking
+- business context
+- product execution
