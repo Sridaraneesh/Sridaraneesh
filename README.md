@@ -1,13 +1,14 @@
 # Sridaraneesh Navendran
 
-Enterprise AI • Applied ML • Observability • Systems Thinking
+## Cross-Platform Full Stack AI Product Engineer • Applied ML • Enterprise Systems • Product Engineering
 
-Computer Science Engineering graduate with an academic minor in AI & Data Science, currently focused on enterprise AI systems, observability workflows, applied machine learning, and technically serious product experiences.
+Computer Science Engineering graduate with an academic minor in AI & Data Science, currently building cross-platform full-stack AI products across enterprise, healthcare, and computer-vision domains.
 
 Currently interested in:
-- Enterprise AI
+- Full-stack AI product engineering
+- Enterprise AI systems
+- Applied machine learning
 - AI observability
-- Applied ML systems
 - Product-oriented engineering
 - Interactive technical interfaces
 - Business-aware software systems
@@ -17,51 +18,77 @@ Currently interested in:
 ## Focus Areas
 
 - AI & Data Science
+- Full-Stack Product Engineering
 - Enterprise Systems
 - Observability & Analytics
 - Computer Vision
 - Applied Machine Learning
 - Dashboarding & Visualization
-- Product Engineering
+- Cross-Platform Applications
 - Technical UX
 
 ---
 
 ## Tech Exposure
 
-**Core**
+### **Core**
 - Python
+- JavaScript
+- TypeScript
+- SQL
 
-**AI / ML**
+### **AI / ML**
+- PyTorch
 - TensorFlow
-- YOLOv8
-- ResNet
+- Scikit-learn
+- YOLOv11
 - BERT
 - OpenCV
+- Computer Vision
 
-**Data & Analytics**
+### **Full-Stack / Application**
+- React
+- Next.js
+- Node.js
+- Tailwind CSS
+- PHP
+- API Development
+- Authentication
+- Cron Jobs
+
+### **Data & Analytics**
+- PostgreSQL
+- Prisma
 - Power BI
 - Pandas
 - NumPy
+- Microsoft Excel
 
-**Enterprise / Systems**
+### **Enterprise / Systems**
 - SAP
-- Observability workflows
 - IDoc monitoring
+- Observability workflows
+- Gmail API
+- Git
+- GitHub
+- Vercel
 
 ---
 
 ## Current Direction
 
 Building toward:
+- full-stack AI products
 - technically serious systems
-- polished product experiences
 - enterprise AI workflows
+- applied ML systems
 - operational dashboards
+- cross-platform applications
 - interactive technical interfaces
 
 Interested in combining:
 - engineering
 - systems thinking
+- AI/ML
 - business context
 - product execution
