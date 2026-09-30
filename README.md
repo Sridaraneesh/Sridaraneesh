@@ -1,6 +1,6 @@
 # Sridaraneesh Navendran
 
-## Cross-Platform Full Stack AI Product Engineer • Applied ML • Enterprise Systems • Product Engineering
+## Cross-Platform Full Stack AI Product Engineer - Product Engineering
 
 Computer Science Engineering graduate with an academic minor in AI & Data Science, currently building cross-platform full-stack AI products across enterprise, healthcare, and computer-vision domains.
 
